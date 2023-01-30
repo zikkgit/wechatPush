@@ -6,21 +6,22 @@ wechat:
   #  微信公众平台的appSecret
   secret: '8b06950e2827cfa0de533ecd9f9d956c'
   #  百度地图开放平台的城市ID
-  district_id: '370102'
+  district_id: '320508'
   #  百度地图开放平台的应用AK
   ak: 'Qd6KXEfn6d8srvyYAjIaKgZQrfk4bO3P'
   #  纪念日：注意格式yyyy-MM-dd
-  loveDate: '2023-01-24'
+  loveDate: '2019-01-23'
   #  生日：注意格式yyyy-MM-dd （无论是计算阳历生日还是农历生日,一律填阳历出生年月日）
-  birthday: '1998-04-15'
+  birthday: '1998-11-05'
   #  模板ID
-  templateId: 'L-UK8xTT3CKvUd3ZKQA45g88otfR92c3vUv-JK--Xo0'
+  templateId: 'pwcFdeBf4t6Ro9hXIvx0sKwDdfvrhyjr0nNFkIn5JfQ'
   #  天行数据apiKey
   rainbowKey: 'ede0a9baec47df68b059206cf84c1dd2'
   #  关注公众号的用户ID（要推送的人的用户ID,在微信公众平台里可以查看到,现在支持推送多个人）
   userId:
     - 'onqEy555JoYqRgV7q1xfv4c3Ydzk'
-#    - ''
+#    - 'onqEy5wmGe87Sw4aQXy014J_hR7s'
+    - 'onqEy5yODq41V2QrQ4QNotEYODrk'
   #    是否按农历计算生日 true:是 false:否
   useLunar: true
   #  cron表达式
